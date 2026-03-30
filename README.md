@@ -1,4 +1,4 @@
-PhonePe Transaction Insights & Customer Segmentation
+PhonePe Transaction Insights 
 
 🚀 Overview
 
@@ -36,7 +36,7 @@ Dynamic charts and graphs
 Cluster visualization
 
 ▶️ How to Run
-git clone https://github.com/your-username/phonepe-analysis.git
+git clone https://github.com/Aishwarya-1108/phonepe-analysis.git
 cd phonepe-analysis
 pip install -r requirements.txt
 streamlit run app.py
